@@ -1,5 +1,4 @@
 # mario_asjad
-tahan magada
 Manifest kõigile Eestimaa rahvastele.
 
 Eesti rahvas ei ole aastasadade jooksul kaotanud tungi iseseisvuse järele. Põlvest põlve on temas kestnud salajane lootus, et hoolimata pimedast orjaööst ja võõraste rahvaste vägivallavalitsusest veel kord Eestis aeg tuleb, mil "kõik piirud kahel otsal lausa löövad lõkendama" ja et "kord Kalev koju jõuab oma lastel õnne tooma".
