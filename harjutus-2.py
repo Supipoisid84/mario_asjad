@@ -8,7 +8,7 @@ pprint(bin(arv))
 print(hex(arv))
 
 #10. Kütusekulu arvutamine
-liiter=int(input("Lisa kütusekul: "))
+liiter=int(input("Lisa kütusekulu: "))
 km=int("Lisa läbitud kilomeetrid: "))
 kytusekulu=liiter/(km/100)
 print("Sinu keskmine kütusekulu on: ",kytusekulu)
