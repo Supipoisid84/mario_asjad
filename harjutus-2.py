@@ -1,5 +1,5 @@
 #Alex Kreimann
-#04.10.24
+#04.10.2024
 #Harjutus02
 
 #9. Arvusüsteem
