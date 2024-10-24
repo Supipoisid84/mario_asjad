@@ -7,6 +7,7 @@ import datetime
 x=datetime.datetime.now()
 tana=int(x.strftime("%m"))-1
 
+"""
 #12kuud
 kuud=[["jaanuar",7,-15,-1,-4,-16,21,-2,19,6,14,13,14,-3,17,29,6,29,-1,1,27,-6,-10,7,-18,-6,3,-2,12,16,-13,10],
 ["veebruar",9,-9,-20,2,12,-20,-3,-4,-1,14,-18,-17,24,-11,5,-18,-8,-18,4,-19,13,14,29,11,12,25,-13,9,21,0,-2],
@@ -20,7 +21,9 @@ kuud=[["jaanuar",7,-15,-1,-4,-16,21,-2,19,6,14,13,14,-3,17,29,6,29,-1,1,27,-6,-1
 ["oktoober",-1,-1,-5,3,20,-14,-11,12,-14,3,-11,-9,-7,27,-13,22,-12,-16,-19,24,29,27,6,11,-7,14,30,27,9,9,16],
 ["november",-3,15,-12,-20,-5,0,10,10,20,3,-17,13,17,-5,18,-18,-2,26,7,19,-20,9,-8,15,24,-3,-5,30,-19,11,-3],
 ["detsember",3,20,-2,15,-10,11,-6,5,7,-8,12,-6,22,24,14,5,21,14,-3,-11,-19,15,-10,-20,7,-1,9,-18,26,17,6]]
+"""
 
+"""
 #Kommentaar
 print(kuud[tana][0])
 print(f"Viimane mõõtmine sellel kuul: {kuud[tana][len(kuud[tana])-1]}")
@@ -36,6 +39,9 @@ print(f"-20 esineb {ajutine.count(-20,ajutine)} korda")
 
 ajutine.pop(5)
 print(ajutine)
+"""
+
+"""
 #Kommentaar
 muusika=[
 'ALIKA – "Bridges"','Anett x Fredi – "Read Between The Lines"','villemdrillem – "leekiv armastus"','Clicherik & Mäx – "PAKSUD"','nublu – "ära ärata"','NOËP – "Move Your Feet"',
@@ -48,4 +54,4 @@ try:
     print(f"Mängin lugu {muusika[valik-1]}")
 except:
     print("Midagi läks katki. Teavita admini!")
-    
+"""
