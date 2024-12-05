@@ -1,6 +1,7 @@
 #Alex Kreimann
 #20.11.2024
 #Ülesanne15
+#Kindlasti minu tehtud
 
 import turtle
 import random
