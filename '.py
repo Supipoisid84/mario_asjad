@@ -15,6 +15,7 @@
 #	kogusumma  1p
 #	keskmine 1p
 
+#Ei tööta kurat, sitt kood
 vanusteloend=[8,17,69,420,14,84,7,57]
 suurimarv=(max(vanusteloend))
 väikseimarv=(min(vanusteloend))
@@ -47,13 +48,18 @@ print("Keskmine on:", (keskmine))
 #	kood mis teavitab paaris vÃµi paaritust arvust - 1p
 #	kuvatakse programmi pealkiri - 1p
 #	kood kommenteeritud - 1p
+
+#Ei oska
+
 	
 #7.+ Eurokalkulaator - koosta programm, mis kalkuleerib valuuta vastavalt kasutaja soovile EUR->EEK vÃµi EEK->EUR.
 #	kuvatakse korrektne arusaadav kÃ¼simus ja vastus - 1p
 #	kuvatakse veateade, kui kasutaja tegi valiku valesti - 1p
 #	kÃ¼sitakse valuuta kogust ja tehakse arvutused - 2p
 #	kood kommenteeritud - 1p
-	
+
+#Ei oska
+
 #8. TÃ¤ringud
 #	kuvatakse korrektne arusaadav kÃ¼simus ja hiljem vastus - 1p
 #	kasutaja vÃµistleb kahe tÃ¤ringuga arvuti vastu - 1p
@@ -119,10 +125,14 @@ print("Keskmine on:", (keskmine))
 #	oktoober 2 2 1 5 -2 5 5 2 2 2 1 -2 1 -2 0 -2 5 4 0 1 -1 2 0 2 2 2 -1 1 4 -1
 #	november -6 -7 -2 -7 -2 -4 0 -7 -8 -6 0 -9 -2 -3 -2 0 -8 -2 -5 -2 -5 -8 -10 0 -2 -9 -9 -7 -1
 #	detsember -15 2 -11 -14 -15 -5 -5 -18 -18 -19 0 0 2 -7 -16 -7 -4 -1 -1 -16 -18 -10 -3 -19 -6 -16 -16 -8 -2 -18
+
+#Ei oska
 	
 #16.+ TÃ¤ringud
 #	Kasutaja vÃµistleb kahe tÃ¤ringuga arvuti vastu. Kasutaja teeb pakkumise ning suurima tÃ¤ringupunktisumma vÃµitja saab laual oleva raha endale juurde. MÃ¤ng kestab kuni kummalgi on raha otsas.
 #	(Vihjed: kÃ¼si kasutajalt nime, kuva pidevalt konto seisu ja tÃ¤ringuviskeid, kasutajate raha hulga mÃ¤ngu alguses mÃ¤Ã¤rad sina)
+
+#Ei oska
 
 #17. Email
 #	Kasutaja lisab emaili kujul enimi.pnimi@server.com
