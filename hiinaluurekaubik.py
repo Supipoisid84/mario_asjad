@@ -2,7 +2,7 @@
 #12.12.2024
 #Kontrolltöö 7 15 6 2 16
 
-import math
+
 
 #1. Korrutamise kontrollimine
 #	programm esitab korrutustehte 1p
@@ -51,7 +51,7 @@ print("Keskmine on:", (keskmine))
 #	kood mis teavitab paaris vÃµi paaritust arvust - 1p
 #	kuvatakse programmi pealkiri - 1p
 #	kood kommenteeritud - 1p
-
+"""
 #Palun 5+ või kingi 6 liitrit kalja. Ma vihkan seda rämpsu, teine punkt sinu nõudmistel ajab närvid läbi.
 print("Paaritu arvu kontrollija")
 arv=int(input("Sisesta arv: "))
@@ -63,9 +63,7 @@ elif arv==0:
     print("Ei")
 else:
     print("Arv on paaritu, nagu mina.")
-
-
-
+"""
 #7.+ Eurokalkulaator - koosta programm, mis kalkuleerib valuuta vastavalt kasutaja soovile EUR->EEK vÃµi EEK->EUR.
 #	kuvatakse korrektne arusaadav kÃ¼simus ja vastus - 1p
 #	kuvatakse veateade, kui kasutaja tegi valiku valesti - 1p
@@ -73,6 +71,7 @@ else:
 #	kood kommenteeritud - 1p
 
 #Ei oska
+
 
 #8. TÃ¤ringud
 #	kuvatakse korrektne arusaadav kÃ¼simus ja hiljem vastus - 1p
