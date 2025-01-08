@@ -42,4 +42,5 @@ uusfail = 'mangud.csv'
 with open(uusfail, mode='w', newline='', encoding='utf-8') as fail:
     csv_fail = csv.writer(fail, delimiter=';')  # Semikoolon veerueraldajana
    
-    csv_fail.writerows(mangud)
+    for key,value in mangud.items():
+       csv_fail.writerow([key.encode('utf-8'),value])
