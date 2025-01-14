@@ -1,6 +1,6 @@
 #Alex Kreimann
 #08.01.2025
-#Kikas01
+#Üleanne18
 
 import csv
 
@@ -43,4 +43,4 @@ with open(uusfail, mode='w', newline='', encoding='utf-8') as fail:
     csv_fail = csv.writer(fail, delimiter=';')  # Semikoolon veerueraldajana
    
     for key,value in mangud.items():
-       csv_fail.writerow([key.encode('utf-8'),value])
+       csv_fail.writerow([key,value])
